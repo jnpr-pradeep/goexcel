@@ -7,7 +7,7 @@ git clone https://github.com/jnpr-pradeep/goexcel.git
 
 # compile the code 
 
-cd goexcel
-go run main.go
+cd goexcel <br />
+go run main.go <br />
 
 It will generate the sample.xlsx and prints the data by going through the BOM (mocked object in main.go).
